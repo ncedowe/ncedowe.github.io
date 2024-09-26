@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ncedowe.github.io/sitemap.ncedowe.gz
+Sitemap: https://ncedowe.github.io/app/sitemap.ncedowe.gz
+Sitemap: https://ncedowe.github.io/assets/sitemap.ncedowe.gz
+Sitemap: https://ncedowe.github.io/css/sitemap.ncedowe.gz
+Sitemap: https://ncedowe.github.io/data/sitemap.ncedowe.gz
+Sitemap: https://ncedowe.github.io/includes/sitemap.ncedowe.gz
+Sitemap: https://ncedowe.github.io/item/sitemap.ncedowe.gz
+Sitemap: https://ncedowe.github.io/src/sitemap.ncedowe.gz
